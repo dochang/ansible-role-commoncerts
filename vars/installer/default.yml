@@ -1,0 +1,3 @@
+---
+commoncerts_installer: default
+commoncerts_package: ca-certificates

@@ -1,0 +1,4 @@
+---
+- name: install commoncerts
+  fail:
+    msg: 'Not supported.'

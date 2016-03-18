@@ -1,0 +1,5 @@
+---
+- name: install commoncerts
+  apt:
+    name: '{{ commoncerts_package }}'
+    state: present
