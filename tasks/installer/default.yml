@@ -1,4 +1,4 @@
 ---
-- name: install commoncerts
+- name: install common CA certificates
   fail:
     msg: 'Not supported.'
